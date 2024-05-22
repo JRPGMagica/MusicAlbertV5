@@ -25,7 +25,7 @@ module.exports = {
   ownerID: ["1004206704994566164", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "RPGMagica:Password@almusic.6dqn3qx.mongodb.net/?retryWrites=true&w=majority",
+  mongodbURL: "mongodb+srv://RPGMagica:Password@almusic.6dqn3qx.mongodb.net/?retryWrites=true&w=majority&appName=AlMusic",
   status: 'GlaceYT',
   commandsDir: './commands',
   language: "en",
