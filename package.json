@@ -4,7 +4,7 @@
   "description": "discord.js v14.7 music bot. for slash commands",
   "main": "index.js",
   "dependencies": {
-    "@discordjs/builders": "^1.6.5",
+    "@discordjs/builders": "^1.8.2",
     "@discordjs/opus": "^0.9.0",
     "@discordjs/rest": "^1.7.1",
     "@discordjs/voice": "^0.16.0",
@@ -13,7 +13,7 @@
     "@distube/spotify": "^1.5.1",
     "@distube/yt-dlp": "^2.0.1",
     "@distube/ytdl": "^2.0.6",
-    "@distube/ytdl-core": "^4.14.4",
+    "@distube/ytdl-core": "^14.15.3",
     "@top-gg/sdk": "^3.1.5",
     "anime-actions": "^1.0.6",
     "discord-api-types": "^0.37.56",
