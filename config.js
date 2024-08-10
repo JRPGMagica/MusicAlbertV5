@@ -21,7 +21,7 @@
 
 
 module.exports = {
-  token: process.env.TOKEN,
+  TOKEN: "",
   ownerID: ["1004206704994566164", ""],
   botInvite: "",
   supportServer: "",
